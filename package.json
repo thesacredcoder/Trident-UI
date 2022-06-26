@@ -1,5 +1,8 @@
 {
-  "name": "easy-ui",
+  "name": "@thesacrecoder/trident-ui",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/thesacrecoder"
+  },
   "version": "1.0.0",
   "description": "A simple and easy react-ui component library to make the development process faster",
   "main": "dist/cjs/index.js",
